@@ -1,0 +1,13 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+output/
+responses/
+*.html
+*.csv
+*.json
+!package.json
+!requirements.txt
