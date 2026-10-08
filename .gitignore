@@ -6,8 +6,7 @@ venv/
 .venv/
 output/
 responses/
-*.html
-*.csv
-*.json
-!package.json
-!requirements.txt
+config.json
+google_search_content_gap_finder/data/serp_results.csv
+google_search_content_gap_finder/data/serp_results2.csv
+google_search_content_gap_finder/data/content_gaps.csv

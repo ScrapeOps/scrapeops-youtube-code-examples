@@ -1,0 +1,7 @@
+{
+  "api_key": "env:SCRAPEOPS_API_KEY",
+  "my_domain": "yoursite.com",
+  "competitors": ["competitor1.com", "competitor2.com", "competitor3.com"],
+  "geo": { "country": "us", "hl": "en", "gl": "us" },
+  "max_retries": 3
+}
