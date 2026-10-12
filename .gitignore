@@ -7,6 +7,10 @@ venv/
 output/
 responses/
 config.json
+*.log
+*.db
+*.sqlite
+*.sqlite3
 google_search_content_gap_finder/data/serp_results.csv
 google_search_content_gap_finder/data/serp_results2.csv
 google_search_content_gap_finder/data/content_gaps.csv

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "scrapeops": {
+      "command": "npx",
+      "args": ["-y", "@scrapeops/mcp-server"],
+      "env": {
+        "SCRAPEOPS_API_KEY": "your-api-key-here"
+      }
+    }
+  }
+}
